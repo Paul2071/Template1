@@ -1,1 +1,99 @@
 /* Copy and paste your CSS from CodePen into here */
+p {
+    font-size: 20px;
+  }
+  
+  h1 {
+    font-size: 40px;
+    font-family: Verdana;
+    background-color: green;
+    max-width: 1050px;
+     margin: 0 auto 50px auto;
+  }
+  
+  h2 {
+    text-align: center;
+    font-family: verdana;
+    font-size: 40px;
+     background-color: green;
+     max-width: 550px;
+    margin: 0 auto 50px auto;
+  }
+  
+  ul {
+    max-width: 550px;
+    list-style-type: square;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    font-size: 20px;
+    font-family: Lucida Console;
+    line-height: 2;
+    background-color: green;
+  }
+  
+  h3 {
+    font-size: 40px;
+    font-family: verdana;
+     background-color: green;
+    max-width: 550px;
+     margin: 0 auto 50px auto;
+  }
+  
+  ol {
+    
+    font-size: 20px;
+    font-family: Lucida Console;
+    background-color: green;
+    max-width: 550px;
+     margin: 0 auto 50px auto;
+    line-height: 2;
+  }
+  
+  h4 {
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    font-family: verdana;
+     max-width: 550px;
+    margin: 0 auto 50px auto;
+    position: absolute;
+    left: 680px
+    
+  }
+  
+  
+  #img-div {
+    position: absolute;
+    top: 900px;
+    left: 100px;
+  }
+  
+  #image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  }
+  
+  
+  #img-caption {
+    text-align: center;
+    padding: 10px;
+    font-family: verdana;
+    background-color: green;
+  }
+  
+  #img2-div {
+    position: absolute;
+    top: 900px;
+    left: 1300px;
+  }
+    
+  #img2-caption {
+    text-align: center;
+    padding: 10px;
+    font-family: verdana;
+    background-color: green;
+    
+        
+      
+  }
