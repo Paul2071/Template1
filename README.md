@@ -1,3 +1,7 @@
+All of the below is done. This is just me celebrating that this fucking thing works.
+
+
+
 # README - Learning Journey step 7
 
 ## 7.2 - Your Tribute Page
